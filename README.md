@@ -1,16 +1,35 @@
 ### Hi there 👋
 
-<!--
-**imjiaobin/imjiaobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jonathan #imjiaobin
+Hi, I'm Jonathan! I am a FRESH of coding. I love learing new technology and skills of web. I live in Taiwan. I want to become an engineer😸!
 
-Here are some ideas to get you started:
+##🤓 My values
+##🍏 Beginner's mindset and curiosity
+##🙌 Sharing anything I learned
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Goals of 2024
+I want to become an engineer💪. I will keep learnig new knowledge and contribute more open source projects to improve my skills!
+
+##🧠MY SKILLS
+##📚 Langues and Frameworks
+#Web Design
+-HTML
+-CSS3
+
+#FronEnd
+-JavaScript
+-Vue.js
+
+#BackEnd
+-Django
+
+#DataBase
+-MySQL
+
+🔧 Tool
+-Version Control(Git)
+
+💡 Projects
+-Shopping Cart(HTML,CSS,JavaScript,Python,Django)
+-Todo_list(HTML,CSS,JavaScript,Python,Django_Rest_FrameWork)
+-Weather App(Vue.js,Tailwind,Bootstrap)
