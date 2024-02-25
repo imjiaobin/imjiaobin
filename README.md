@@ -30,6 +30,6 @@ I want to become an engineer💪. I will keep learnig new knowledge and contribu
 -Version Control(Git)
 
 💡 Projects
--Shopping Cart(HTML,CSS,JavaScript,Python,Django)
--Todo_list(HTML,CSS,JavaScript,Python,Django_Rest_FrameWork)
--Weather App(Vue.js,Tailwind,Bootstrap)
+#Shopping Cart(HTML,CSS,JavaScript,Python,Django)
+#Todo_list(HTML,CSS,JavaScript,Python,Django_Rest_FrameWork)
+#Weather App(Vue.js,Tailwind,Bootstrap)
