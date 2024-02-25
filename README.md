@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-Jonathan #imjiaobin
--Hi, I'm Jonathan! I am a FRESH of coding. I love learing new technology and skills of web. I live in Taiwan. I want to become an engineer😸!
+I'm Jonathan! I am a FRESH of coding. I love learing new technology and skills of web. I live in Taiwan. I want to become an engineer😸!
 
 ##🤓 My values
 ##🍏 Beginner's mindset and curiosity
